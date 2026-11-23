@@ -22,7 +22,7 @@
 - 🤖 Interested in Machine Learning and Deep Learning
 - 🧠 Exploring Computer Vision, LLMs and AI Agents
 - ⚙️ Building practical AI-powered applications
-- ☁️ Interested in Cloud Deployment and ML Engineering
+- ☁️ Interested in ML Engineering
 - 📍 Busan, South Korea
 
 ---
